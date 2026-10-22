@@ -1,5 +1,3 @@
-# Monte-Carlo-Optional-Pricer
-
 # Monte Carlo Option Pricer
 
 A C++17 project for pricing European options using
